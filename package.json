@@ -1,0 +1,25 @@
+{
+  "name": "lzad-15-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marro2016/lzad-15-5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marro2016/lzad-15-5/issues"
+  },
+  "homepage": "https://github.com/marro2016/lzad-15-5#readme",
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "browser-sync": "^2.24.2",
+    "http-server": "^0.11.1"
+  }
+}
